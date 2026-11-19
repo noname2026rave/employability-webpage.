@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Leadership">
+  <defs>
+    <linearGradient id="l1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="url(#l1)"/>
+  <circle cx="140" cy="400" r="90" fill="#ffffff" opacity="0.10"/>
+  <g fill="#ffffff">
+    <rect x="300" y="300" width="60" height="120" rx="8"/>
+    <rect x="370" y="250" width="60" height="170" rx="8"/>
+    <rect x="440" y="200" width="60" height="220" rx="8"/>
+  </g>
+  <polygon points="520,120 545,180 610,180 558,220 578,285 520,246 462,285 482,220 430,180 495,180" fill="#fbbf24"/>
+  <path d="M250 300 L540 150" stroke="#fbbf24" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <text x="400" y="480" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">Leadership &amp; Initiative</text>
+</svg>
